@@ -5,4 +5,4 @@
 </p>  
 some prodigy who likes to code and experiment <br />
 currently using steamos holo <br />
-![firefox](https://hayley.pages.gay/media/buttons/tested-on-firefox.gif "i use firefox btw")
+<img src="https://hayley.pages.gay/media/buttons/tested-on-firefox.gif" />
