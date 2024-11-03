@@ -4,5 +4,6 @@
   </a>
 </p>  
 some prodigy who likes to code and experiment <br />
-• 4 years of scratch <br />
-• 5 years using linux <br />
+• <t:1599106860:R> of scratch <br />
+• <t:1567484460:R> using linux <br />
+• 
