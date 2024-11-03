@@ -5,6 +5,8 @@
 </p>  
 some prodigy who likes to code and experiment <br />
 currently using steamos holo <br />
+<p align="center">
 <img src="https://hayley.pages.gay/media/buttons/tested-on-firefox.gif" />
 <img src="https://hayley.pages.gay/media/buttons/vscbutton.gif" />
 <img src="https://hayley.pages.gay/media/buttons/transnow.gif" />
+</p>
