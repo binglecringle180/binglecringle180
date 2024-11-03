@@ -4,6 +4,5 @@
   </a>
 </p>  
 some prodigy who likes to code and experiment <br />
-• <t:1599106860:R> of scratch <br />
-• <p><t:1567484460:R></p> using linux <br />
-• 
+currently using steamos holo <br />
+![firefox](https://hayley.pages.gay/media/buttons/tested-on-firefox.gif "i use firefox btw")
